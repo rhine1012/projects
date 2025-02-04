@@ -1,6 +1,6 @@
 OK
   
-U-Boot 2010.03 (Jul 18 2018 - 14:50:48) for iTOP-4412 Android
+lllU-Boot 2010.03 (Jul 18 2018 - 14:50:48) for iTOP-4412 Android
                                                              
         APLL = 1000MHz, MPLL = 800MHz
         ARM_CLOCK = 1000MHz          
